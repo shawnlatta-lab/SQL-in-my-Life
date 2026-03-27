@@ -1,5 +1,5 @@
 # SQL and Cataloging in my Life.
-Examples of how I use SQL outside of a work environment.
+Examples of how I use SQL, data management, and data analysis outside of a work environment.
 
 Gramps SQL.docx - This document is a short discussion on what Gramps is and explanation of a SQL query I wrote for it.
 
