@@ -1,7 +1,7 @@
 # SQL and Cataloging in my Life.
 Examples of how I use SQL and data concepts outside of a work environment.
 
-Genealogy Research:
+**Genealogy Research:**
 
 <ul><li><a href="https://github.com/shawnlatta-lab/SQL-in-my-Life/blob/main/Gramps%20SQL.docx">Gramps SQL.docx</a> - This document is a short discussion on what Gramps is and explanation of a SQL query I wrote for it.</li>
 <li><a href="https://github.com/shawnlatta-lab/SQL-in-my-Life/blob/main/images.sql">images.sql</a>- The query is looking for certain people in the DB that have an event mentioning the word "Quakers." From there, I have a left join to see who does and who does not have a certain image attached to the event.</li>
@@ -12,12 +12,23 @@ Genealogy Research:
 <li><a href="https://github.com/shawnlatta-lab/SQL-in-my-Life/blob/main/sources.sql">sources.sql</a> - A simple count and name search for the source table. Purpose of the query is to see if I have multiple copies of a source stored in the DB. This is possible due to the primary key structure being the unique identifiers on the source table.</li>
 </ul>
 
-Other Reasons:
+**Other Reasons:**
 
 <ul><li><a href="https://github.com/shawnlatta-lab/SQL-in-my-Life/blob/main/Historical%20Markers.xlsx">Historical Markers.xlsx</a> - The purpose of this document was to keep track of the historical markers I have photographed. This is my basic tracking log template.</li>
 </ul>
 
-Schooling Work:
+**Schooling Work:**
+
+Files from my senior project from college:
+
+<ul><li><a href="https://github.com/shawnlatta-lab/SQL-in-my-Life/blob/main/SeniorProject.ppt">SeniorProject.ppt</a> - A Power Point presentation of my senior project.  It's not an informative presentation since I was giving a live demostration.</li>
+<li><a href="https://github.com/shawnlatta-lab/SQL-in-my-Life/blob/main/Diagram%20Samples.docx">Diagram Samples.docx</a> - Two of the diamgrams from the presentation above.  Placed in a new document to enlarge the graphics. </li>
+</ul>
+
+Data Flow - This is a simplified data flow chart on what the system does.
+ER Diagram - This is the chart providing a visualation on the data needed and how the data interacts. 
+
+
 
 These are some files from the <a href="https://ieeexplore.ieee.org/document/4147436">Evaluation procedure of a module-based approach for undergraduate information retrieval education</a> supervised by former faculty member, Dr. Lei Zhu, of the now Georgia Southern - Armstrong Campus.
 
